@@ -47,9 +47,7 @@ Source Code diatas berfungi sebagai berbagai *action syntax* yang nanti akan di 
 
 Mari kita coba opsi T (Tambah) dari source code **Book** diatas, maka output yang keluar adalah sebagai berikut : <br>
 
-<div align="center">
-<img src="images/tambah.png" >
-</div> <br>
+![Opsi T](gambar/opsi-t.PNG)
 
 Berjalan sesuai dengan yang kita inginkan. <br>
 <br>
