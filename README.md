@@ -54,17 +54,12 @@ Berjalan sesuai dengan yang kita inginkan. <br>
 
 **Sekarang kita akan mencoba opsi **Ubah**:** <br>
 
-<div align="center">
-<img src="images/ubah.png" >
-</div> <br>
+![Opsi U](gambar/opsi-u.PNG)
 
 Data **Kelas** dari table sebelumnya berhasil kita ubah dengan opsi **Ubah**, Selanjutkan kita akan mencoba opsi **Hapus** : <br>
 Berikut tampilan dari menu **Hapus** : <br>
 
-<div align="center">
-<img src="images/hapus.png" >
-</div> <br>
-<br>
+![Opsi H](gambar/opsi-h.PNG)
 
 Untuk opsi **Lihat** dan **Keluar** dua opsi tersebut akan menampilkan result table yang sudah kita isi dengan data, setelah melalui proses sebelumnya.
 
@@ -87,16 +82,10 @@ Untuk opsi **Lihat** dan **Keluar** dua opsi tersebut akan menampilkan result ta
 
 ***
 ## Flowchart
-<div align="center">
-<img src="images/flowchart.png" >
-</div> <br>
+![flowchart](gambar/flowchart.png)
 
 
 ***
 **Sekian tugas saya untuk Repository ini, Terimakasih.**
 <br>
 
-![ttd](images/tttd.png)
-<br>
-
-kelar.......
