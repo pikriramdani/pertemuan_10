@@ -18,9 +18,7 @@ Untuk membuat task diatas saya dengan source code sebagai berikut: <br>
 <br>
 **Untuk membuat file **Data** tersebut saya menggunakan source code dibawah ini :** <br>
 
-<div align="center">
-<img src="images/booksc.png" >
-</div> <br>
+
 
 Kemudian kita *save* di folder sendiri, disini saya menyimpan file **Data** kedalam folder **Data** dan saya simpan dengan file name *book*. <br>
 
